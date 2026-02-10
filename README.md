@@ -33,7 +33,7 @@ PP25/
 ├── LICENSE.txt
 └── README.md
 5. Data Availability
-The dataset provided corresponds to the 25-road case study used in the published research. The repository enables reproducibility of ranking results.
+The dataset provided corresponds to the 25-road case study used in the present  research work. The repository enables reproducibility of ranking results.
 6. License
 Copyright © 2025 [Pravinkumar Jagtap,Dr.Prashant P. Nagrale]
 All Rights Reserved.
