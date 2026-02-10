@@ -1,12 +1,13 @@
-Copyright © 2025 [Pravinkumar Jagtap,DR.Prashant P. Nagrale]
+Copyright (c) 2025 [Pravinkumar Jagtap,DR.Prashant P. Nagrale]
 
-All rights reserved.
+All Rights Reserved.
 
-This software (PP25 Python Tool for Rural Road Upgradation Priority) 
-is protected under copyright law.
+The PP25 Rural Road Upgradation Prioritization Software is protected under copyright law.
 
-This repository is shared solely for academic transparency and 
-reproducibility of the associated research publication.
+The source code is not included in this repository and may not be reproduced, distributed, modified, reverse-engineered, or used for commercial or academic redistribution without prior written permission of the copyright holder.
 
-No permission is granted for copying, modification, redistribution, 
-or commercial use without explicit written consent from the author.
+This repository contains documentation, sample data formats, supplementary tables, and methodological descriptions solely for research transparency and academic reference.
+
+Unauthorized use of proprietary software components is strictly prohibited.
+
+For licensing or academic collaboration inquiries, please contact the corresponding author.
