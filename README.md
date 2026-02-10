@@ -1,43 +1,44 @@
-# PP25-Rural-Road-Prioritization
-Python–SQLite decision-support system for rural road upgrading prioritization using Utility Value and Network Performance Index (NPI) methods with reproducible case-study dataset.
-1. Overview
-PP25 is a Python–SQLite based infrastructure decision-support system developed to support systematic prioritization of rural road upgrading projects. The tool integrates multi-criteria indicators including:
-•	Road length
-•	Population served
-•	Service accessibility/connectivity
-•	Network Performance Index (NPI)
-The system generates automated ranking outputs to support transparent and reproducible infrastructure planning decisions.
-2. Research Context
-This repository accompanies the research paper submitted to:
-Journal of Infrastructure Systems
-Special Collection: Planning and Development of Urban Transportation Infrastructure Systems in Transitional Economies
-Case Study:
-Ambernath Block, Thane District, Maharashtra, India
-25 rural road links analyzed.
-3. Methodology Implemented
-The tool implements:
-1.	Utility Value Method
-2.	Network Performance Index (NPI)
-3.	Correlation-based validation
-Outputs include:
-•	Priority ranking
-•	Comparative scoring
-•	Validation statistics
-4. Repository Structure
-PP25/
-│
-├── src/                 # Python source code
-├── database/            # SQLite database file
-├── data/                # Input dataset (CSV format)
-├── results/             # Output ranking tables
-├── LICENSE.txt
-└── README.md
-5. Data Availability
-The dataset provided corresponds to the 25-road case study used in the present  research work. The repository enables reproducibility of ranking results.
-6. License
-Copyright © 2025 [Pravinkumar Jagtap,Dr.Prashant P. Nagrale]
-All Rights Reserved.
-This software is shared for academic transparency only. Commercial use is not permitted without written permission.
-7. Contact
-For academic queries:
-[psjagtap80@gmail.com,p_nagrale@spce.ac.in ]
+# PP25: Rural Road Upgradation Prioritization Framework
+
+## Overview
+PP25 is a decision-support framework developed for rural road upgradation prioritization under budget constraints. The framework integrates accessibility indicators, socio-economic factors, network performance metrics, and multi-criteria optimization logic.
+
+This repository provides documentation, sample input formats, output results, and supplementary materials supporting the published research article.
+
+## Software Availability
+The PP25 computational tool is protected under copyright and is not publicly distributed.
+
+To ensure transparency and reproducibility, the following materials are provided:
+- Complete methodological documentation
+- Computational workflow diagram
+- Sample input dataset format
+- Output ranking examples
+- Literature review dataset
+- Validation and correlation analysis outputs
+
+Researchers interested in academic collaboration or demonstration access may contact the corresponding author.
+
+## Repository Structure
+
+/manuscript  
+Accepted manuscript of the published study.
+
+/supplementary_material  
+Tables, figures, and validation results referenced in the paper.
+
+
+/methodology_documentation  
+Detailed explanation of computational steps and decision logic.
+
+/software_information  
+Copyright certificate and overview of PP25 framework.
+
+## Reproducibility
+All equations, weighting logic, normalization procedures, and ranking algorithms are fully described in the manuscript and supplementary documentation to allow independent reproduction of results using alternative computational tools.
+
+## Contact
+ Author1: Dr. Prashant P. Nagrale
+Email: p_nagrale@spce.ac.in 
+Author2: Pravinkumar Jagtap  
+Email: psjagtap80@gmail.com
+
